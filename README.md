@@ -61,7 +61,7 @@ I’m passionate about backend architecture, performance tuning, and delivering 
 
 <h3>📊 GitHub Stats</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=memo4code2&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memo4code2&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
