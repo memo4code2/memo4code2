@@ -33,7 +33,7 @@ I’m passionate about backend architecture, performance tuning, and delivering 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/memo4code/solarstore"><b>Solar Energy E-commerce Platform (Backend)</b></a></td>
+      <td><a href="https://github.com/memo4code2/Solar-ecommerce"><b>Solar Energy E-commerce Platform (Backend)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/memo4code/solarstore?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/memo4code/solarstore?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/memo4code/solarstore?style=flat-square&labelColor=343b41"/></td>
