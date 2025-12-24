@@ -32,7 +32,6 @@ Coursework: Database Systems, Web Development, Business Analytics
 <div align="center">
 ✨ Thanks for visiting my profile! ✨
 
-https://img.shields.io/github/stars/memo4code2?style=flat-square&label=Stars&labelColor=343b41&color=yellow
-https://img.shields.io/github/forks/memo4code2?style=flat-square&label=Forks&labelColor=343b41&color=blue
+
 
 </div>
