@@ -26,16 +26,7 @@ Bachelor of Management Information Systems — Expected Aug 2024
 Giza Higher Institute for Administrative Sciences
 Coursework: Database Systems, Web Development, Business Analytics
 
-📊 GitHub Analytics
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=memo4code2&show_icons=true&theme=tokyonight&hide_title=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=memo4code2&layout=compact&theme=tokyonight&hide_title=true
 
-https://github-readme-streak-stats.herokuapp.com/?user=memo4code2&theme=tokyonight
-
-https://github-readme-activity-graph.vercel.app/graph?username=memo4code2&theme=react-dark&height=300
-
-</div>
 📫 Connect With Me
 <p align="center"> <a href="https://github.com/memo4code2" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:memofastcup@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mohamed-abolhassan-b16a803a0/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 <div align="center">
