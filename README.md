@@ -1,4 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello Frind.</h1>
+<h1><img src="<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ae79cca0-cd2a-46fd-8b16-65fece381c4b" />
+" width="30"/> Hello Frind.</h1>
 
 <p>Welcome to my page! </br> I'm <b>Mohamed Aboalhassan</b>, Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Cairo, Egypt</b>. </p>
 
