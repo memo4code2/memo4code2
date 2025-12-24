@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello Frind.</h1>
 
 <p>Welcome to my page! </br> I'm <b>Mohamed Aboalhassan</b>, Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Cairo, Egypt</b>. </p>
 
@@ -34,10 +34,10 @@ I’m passionate about backend architecture, performance tuning, and delivering 
   <tbody>
     <tr>
       <td><a href="https://github.com/memo4code2/Solar-ecommerce"><b>Solar Energy E-commerce Platform (Backend)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/memo4code/solarstore?style=flat-square&labelColor=343b41"/>1</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/memo4code/solarstore?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/memo4code/solarstore?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/memo4code/solarstore?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/memo4code/solarstore?style=flat-square&labelColor=343b41"/>2</td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/memo4code/solarstore?style=flat-square&labelColor=343b41"/></td>
     </tr>
 
 
