@@ -12,14 +12,8 @@ Passionate about backend architecture, performance tuning, and delivering reliab
 🧩 Featured Projects
 <table> <thead align="center"> <tr> <td><b>🎁 Project</b></td> <td><b>⭐ Stars</b></td> <td><b>📚 Forks</b></td> <td><b>🛎 Issues</b></td> <td><b>📬 Pull Requests</b></td> </tr> </thead> <tbody> <tr> <td><a href="https://github.com/memo4code2/Solar-ecommerce"><b>Solar Energy E-commerce Platform (Backend)</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Forks" src="https://img.shields.io/github/forks/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Issues" src="https://img.shields.io/github/issues/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> </tr> <tr> <td><a href="https://github.com/memo4code2/Simple-To-Do-List"><b>SimpleToDoList (PHP/JS)</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> <td><img alt="Forks" src="https://img.shields.io/github/forks/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> <td><img alt="Issues" src="https://img.shields.io/github/issues/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> </tr> </tbody> </table>
 💼 Professional Experience
-Backend Developer (Freelancer) — *2023 - Present*
+Backend Developer (Freelancer)
 Developed RESTful APIs using PHP and MySQL for e-commerce applications
-
-Implemented secure authentication systems serving 500+ users
-
-Optimized database queries, improving response times by 35%
-
-Designed and maintained scalable backend architectures
 
 🎓 Education
 Bachelor of Management Information Systems — Expected Aug 2024
