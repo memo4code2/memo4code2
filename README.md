@@ -10,11 +10,7 @@
 🛠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,postman" /> </p> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> </p>
 🧩 Featured Projects
-Project	Description
-🔋 Solar E-commerce
-	Backend system for solar products
-✅ Simple To-Do List
-	PHP & JS task manager
+<p align="center"> <a href="https://github.com/memo4code2/Solar-ecommerce" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=memo4code2&repo=Solar-ecommerce&theme=radical"/> </a> <a href="https://github.com/memo4code2/Simple-To-Do-List" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=memo4code2&repo=Simple-To-Do-List&theme=radical"/> </a> </p>
 💼 Experience
 
 Backend Developer (Freelancer)
