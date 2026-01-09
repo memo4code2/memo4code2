@@ -1,34 +1,40 @@
-Hello friend! 👋
-Welcome to my page!
-I'm Mohamed Aboalhassan, a Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Cairo, Egypt.
+👋 Hello Friend, I'm Mohamed Aboalhassan
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+%7C+PHP+%7C+MySQL;Building+Scalable+APIs" /> </p> <p align="center"> Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Cairo, Egypt </p>
+🚀 About Me
 
-💻 About Me
-I'm a Backend Developer specializing in Laravel, PHP, and MySQL.
-I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code.
-Passionate about backend architecture, performance tuning, and delivering reliable systems.
+💻 Backend Developer specialized in Laravel, PHP, MySQL
+⚡ Building scalable APIs & optimized databases
+🧠 Clean code, solid architecture & performance tuning
+🔥 Passionate about backend systems & real-world projects
 
-🧠 Tech Stack
-<center>  <p> <img alt="git" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2piM2x1cWQ4enRpbzhtOWg1bDF4bXVuOWtlcnhra2lhMjN1dnUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />   </center>
-
-<p> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img alt="REST API" src="https://img.shields.io/badge/REST%20API-4DB33D?style=for-the-badge&logo=postman&logoColor=white" /> <img alt="OOP" src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img alt="Database Design" src="https://img.shields.io/badge/Database%20Design-003B57?style=for-the-badge&logo=databricks&logoColor=white" /> </p>
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,postman" /> </p> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> </p>
 🧩 Featured Projects
-<table> <thead align="center"> <tr> <td><b>🎁 Project</b></td> <td><b>⭐ Stars</b></td> <td><b>📚 Forks</b></td> <td><b>🛎 Issues</b></td> <td><b>📬 Pull Requests</b></td> </tr> </thead> <tbody> <tr> <td><a href="https://github.com/memo4code2/Solar-ecommerce"><b>Solar Energy E-commerce Platform (Backend)</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Forks" src="https://img.shields.io/github/forks/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Issues" src="https://img.shields.io/github/issues/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> </tr> <tr> <td><a href="https://github.com/memo4code2/Simple-To-Do-List"><b>SimpleToDoList (PHP/JS)</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> <td><img alt="Forks" src="https://img.shields.io/github/forks/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> <td><img alt="Issues" src="https://img.shields.io/github/issues/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> </tr> </tbody> </table>
-💼 Professional Experience
-Backend Developer (Freelancer)
-Developed RESTful APIs using PHP and MySQL for e-commerce applications
+Project	Description
+🔋 Solar E-commerce
+	Backend system for solar products
+✅ Simple To-Do List
+	PHP & JS task manager
+💼 Experience
 
+Backend Developer (Freelancer)
+
+Built REST APIs
+
+Integrated databases
+
+Authentication systems
+
+E-commerce backends
 
 🎓 Education
-Bachelor of Management Information Systems — Expected Aug 2024
-Giza Higher Institute for Administrative Sciences
-Coursework: Database Systems, Web Development, Business Analytics
 
+🎓 Bachelor of MIS (2024)
+Giza Higher Institute
+📚 Database Systems – Web Dev – Business Analytics
 
-📫 Connect With Me
-<p align="center"> <a href="https://github.com/memo4code2" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:memofastcup@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mohamed-abolhassan-b16a803a0/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-<div align="center">
-✨ Thanks for visiting my profile! ✨
-
-
-
-</div>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=memo4code2&show_icons=true&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=memo4code2&theme=radical" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/memo4code2"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /> </a> <a href="mailto:memofastcup@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /> </a> <a href="https://www.linkedin.com/in/mohamed-abolhassan-b16a803a0/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+<p align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/> </p> <p align="center"> ✨ Thanks for visiting my profile ✨ </p>
