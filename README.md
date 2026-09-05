@@ -7,7 +7,7 @@ Hello friend! 👋 Welcome to my page! I'm Mohamed Aboalhassan, a Backend Develo
 <td><a href="https://github.com/memo4code2/Solar-ecommerce"><b>        Solar-ecommerce
 
 </b></a></td>
-<td><img src="https://github.com/memo4code2/Solar-ecommerce/blob/main/assets/preview.png.PNG"/></td>
+<td><img src="https://github.com/memo4code2/Solar-ecommerce/blob/main/assets/preview.png"/></td>
 
 
 
